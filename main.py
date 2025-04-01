@@ -41,7 +41,6 @@ async def help(message :types.Message):
     /clear - to clear the past conversation and context.
     /help - to get this help menu.
     I hope this helps. :)
-    حصوة في عين الميصلي ع نبي
     """
 
     await message.reply(help_command)
